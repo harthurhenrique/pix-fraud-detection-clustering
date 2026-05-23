@@ -1,0 +1,2 @@
+clusterização para anomalias: https://medium.com/simform-engineering/anomaly-detection-with-unsupervised-machine-learning-3bcf4c431aff
+fonte de dados: https://www.kaggle.com/datasets/juniorbueno/pix-banking-transaction?select=comprovantes_pix_10000_anomalias.csv
