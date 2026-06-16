@@ -1,3 +1,3 @@
 O código esta localizado no seguinte caminho: src/eda.ipynb
-Para executar pasta instalar as bibliotecas através do comando pip install -r requirements.txt e em seguida executar os comando das células na ordem em que foram escritos.
+Para executar basta instalar as bibliotecas através do comando pip install -r requirements.txt e em seguida executar os comando das células na ordem em que foram escritos.
 Não tem a necessidade de mais nenhuma interação além disso.
