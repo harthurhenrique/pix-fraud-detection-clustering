@@ -1,10 +1,10 @@
-O código esta localizado no seguinte caminho: src/eda.ipynb
+O código esta localizado no seguinte caminho: notebooks/projeto_pix.ipynb
 Para executar basta instalar as bibliotecas através do comando pip install -r requirements.txt e em seguida executar os comando das células na ordem em que foram escritos.
 Não tem a necessidade de mais nenhuma interação além disso.
 
 Grupo formado por:
 Arthur Rosa
-Augusto
+Augusto de Faria Pereira
 Patricia
 Rafael
 Rodrigo
