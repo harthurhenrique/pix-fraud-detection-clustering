@@ -1,0 +1,12 @@
+# Pastas e arquivos que o Git deve ignorar
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.pyc
+*.pyo
+Zone.Identifier
+data/
+referencias.txt
+requirements.txt
+*.csv
+.venv/
