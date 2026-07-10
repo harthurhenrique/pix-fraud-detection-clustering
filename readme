@@ -1,6 +1,14 @@
-O código esta localizado no seguinte caminho: notebooks/projeto_pix.ipynb
-Para executar basta instalar as bibliotecas através do comando pip install -r requirements.txt e em seguida executar os comando das células na ordem em que foram escritos.
-Não tem a necessidade de mais nenhuma interação além disso.
+Descrição do Projeto
+Este projeto visa a identificação de comportamentos fraudulentos em transações Pix utilizando técnicas de aprendizado não supervisionado. Devido ao alto desbalanceamento da base, 
+utilizamos estratégias de Feature Engineering (como criação de sinalizadores temporais e detecção de valores redondos) e arquiteturas híbridas (Clusterização + Regras de Associação) 
+para maximizar a precisão da detecção.
+
+Roteiro de Reprodução
+Para reproduzir os resultados, siga a ordem lógica dos notebooks, garantindo que o ambiente Python contenha as bibliotecas necessárias (pandas, numpy, seaborn, scikit-learn, imblearn, kmodes, gower, mlxtend):
+
+Limpeza e Preparação (data_prep.ipynb), Análise Exploratória (data_analysis.ipynb), Modelagem e Clusterização (modelagemV0.ipynb), Refinamento e Comparação.
+
+Detalhe que existem 2 arquivos aqui, um com SMOTE e outro sem, o trabalho é o sem SMOTE, com SMOTE foi um teste que fizemos para analisar a diferença de uma base mais balanceada.
 
 Grupo formado por:
 Arthur Rosa
